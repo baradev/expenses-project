@@ -1,4 +1,4 @@
-"use server";
+"use client";
 
 import React, { useState } from "react";
 import { Select, Space } from "antd";
